@@ -1,4 +1,6 @@
 # hello-world
-This is my first Github repository.
-Just finding my way around here.
-I am First year Btech student and am starting my journey into computer science.
+
+I'm Divya ☕💻
+A computer science student, trying to be better every day.
+Currently building: Café Lumière — a cozy cafe website.
+Curious about cyber security and web development all while exploring other fields.

@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow. 
+I am Divya, trying each day to be a little better and build a passion for computers and tech 
